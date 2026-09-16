@@ -1,1 +1,2 @@
 porzadkowanie commit 1
+ porzadkowanie commit 2
