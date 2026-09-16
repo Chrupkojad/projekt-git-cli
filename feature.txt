@@ -1,2 +1,4 @@
 Dowolna tresc
- zmiana na mastera
+test do staging
+ zmiana cycki
+ zmiana kebab
