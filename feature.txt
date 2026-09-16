@@ -1,1 +1,5 @@
 Dowolna tresc
+test do staging
+ zmiana cycki
+ zmiana kebab
+ zmiana amarena
