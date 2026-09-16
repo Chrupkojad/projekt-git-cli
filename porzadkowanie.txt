@@ -1,2 +1,5 @@
 porzadkowanie commit 1
  porzadkowanie commit 2
+ porzadkowanie commit 3
+ porzadkowanie commit 4
+ chyba dziaua
